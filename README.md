@@ -16,7 +16,7 @@
  * расход энергии
 
 ### Стек технологий:
- * ##### Python
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB"/>
 
 ### Как запустить проект:
 
