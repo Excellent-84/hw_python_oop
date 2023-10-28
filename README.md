@@ -28,19 +28,18 @@ git clone https://github.com/Excellent-84/hw_python_oop.git
 #### Cоздать и активировать виртуальное окружение:
 ```
 cd hw_python_oop
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 ```
 
 #### Установить зависимости из файла requirements.txt:
 ```
-python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
 #### Запустить проект:
 ```
-python homework.py
+python3 homework.py
 ```
 
 #### Автор: [Горин Евгений](https://github.com/Excellent-84)
